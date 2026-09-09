@@ -20,9 +20,8 @@ import java.util.Scanner;
             System.out.println("\nDaftar Siswa:");
             for (int i = 0; i < jumlahSiswa; i++) {
                 System.out.println("Nama: " + namaSiswa[i] + ", Absen: " + absenSiswa[i]);
+                input.close();
             }
         }
 
     }
-
-    // pukimak
