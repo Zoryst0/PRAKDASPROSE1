@@ -17,5 +17,6 @@ public class td13 {
         System.out.println("Berat\t\t\t\t\t: " + berat);
         System.out.println("Saldo\t\t\t\t\t: " + saldo);
         System.out.println("Angka desimal\t\t\t\t: " + angkaDesimal);
+        // Elia Beril 09/09/26
     }
 }
