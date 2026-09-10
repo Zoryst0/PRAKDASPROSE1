@@ -17,11 +17,11 @@ public class databaseAbsensi13 {
         try {
             if (Files.notExists(FILE_PATH)) {
                 ArrayList<String> defaultData = new ArrayList<>();
-                defaultData.add("Ahmad Wijaya");
-                defaultData.add("Budi Santoso");
-                defaultData.add("Cici Rahma");
-                defaultData.add("Dina Putri");
-                defaultData.add("Eko Prasetyo");
+                defaultData.add("Sean Altera");
+                defaultData.add("Christian Zerona");
+                defaultData.add("Michael Antonius");
+                defaultData.add("Xaverius Leonard");
+                defaultData.add("Angela Safira");
                 defaultData.add("Fajar Nugroho");
                 defaultData.add("Gita Lestari");
                 defaultData.add("Hendra Saputra");
