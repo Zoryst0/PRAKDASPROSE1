@@ -22,8 +22,8 @@ public class databaseAbsensi13 {
                 defaultData.add("Michael Antonius");
                 defaultData.add("Xaverius Leonard");
                 defaultData.add("Angela Safira");
-                defaultData.add("Fajar Nugroho");
-                defaultData.add("Gita Lestari");
+                defaultData.add("Kenan Alfredo");
+                defaultData.add("Roland Denio");
                 defaultData.add("Hendra Saputra");
                 defaultData.add("Indah Permata");
                 defaultData.add("Joko Susilo");
