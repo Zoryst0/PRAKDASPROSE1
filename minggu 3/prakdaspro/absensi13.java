@@ -34,3 +34,4 @@ public class absensi13 {
         input.close();
     }
 }
+// import data from another file 10/09/26
