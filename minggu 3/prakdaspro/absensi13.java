@@ -1,27 +1,36 @@
 import java.util.Scanner;
-    public class absensi13{
-        
-        public static void main(String[] args) {
-            Scanner input = new Scanner(System.in);
-            int jumlahSiswa;
-            System.out.print("Masukkan jumlah siswa: ");
-            jumlahSiswa = input.nextInt();
-            
-            String[] namaSiswa = new String[jumlahSiswa];
-            int[] absenSiswa = new int[jumlahSiswa];
-            
-            for (int i = 0; i < jumlahSiswa; i++) {
-                System.out.print("Masukkan nama siswa ke-" + (i + 1) + ": ");
-                namaSiswa[i] = input.next();
-                System.out.print("Masukkan nomor absen siswa ke-" + (i + 1) + ": ");
-                absenSiswa[i] = input.nextInt();
-            }
-            
-            System.out.println("\nDaftar Siswa:");
-            for (int i = 0; i < jumlahSiswa; i++) {
-                System.out.println("Nama: " + namaSiswa[i] + ", Absen: " + absenSiswa[i]);
-                input.close();
+
+public class absensi13 {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+
+        System.out.print("Masukkan nama lengkap: ");
+        String nama = input.nextLine();
+
+        if (databaseAbsensi13.isStudentInClass(nama)) {
+            int absen = databaseAbsensi13.getAbsenNumber(nama);
+
+            System.out.println("\nKonfirmasi kehadiran");
+            System.out.println("Nama: " + nama);
+            System.out.println("Nomor absen: " + absen);
+            System.out.println("Status: Hadir");
+            System.out.println("Terima kasih, Anda telah hadir.");
+        } else {
+            System.out.print("Nama belum terdaftar di kelas. Apakah ingin menambah ke kelas? (ya/tidak): ");
+            String jawab = input.nextLine();
+
+            if (jawab.equalsIgnoreCase("ya")) {
+                databaseAbsensi13.addStudent(nama);
+                int absen = databaseAbsensi13.getAbsenNumber(nama);
+
+                System.out.println("\nNama baru berhasil ditambahkan.");
+                System.out.println("Nomor absen otomatis: " + absen);
+                System.out.println("Status: Hadir");
+            } else {
+                System.out.println("\nNama tidak terdaftar di kelas ini.");
             }
         }
 
+        input.close();
     }
+}
