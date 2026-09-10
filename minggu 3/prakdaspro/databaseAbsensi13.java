@@ -6,6 +6,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 
 public class databaseAbsensi13 {
+    
     private static final Path FILE_PATH = Paths.get("dataAbsensi13.txt");
     private static final ArrayList<String> NAMA = new ArrayList<>();
 
