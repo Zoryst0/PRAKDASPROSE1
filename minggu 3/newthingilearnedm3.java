@@ -83,7 +83,7 @@ public class newthingilearnedm3 {
     //Selain itu, ada juga konsep momentum dalam fisika, yang merupakan ukuran dari jumlah gerak suatu benda. Momentum dapat dijelaskan dengan rumus: p = m * v, di mana p adalah momentum, m adalah massa benda, dan v adalah kecepatan benda. Momentum dapat berubah jika ada gaya eksternal yang bekerja pada benda tersebut.
     //Contoh pengaplikasiannya adalah pada tabrakan antara dua benda, di mana momentum total sebelum tabrakan sama dengan momentum total setelah tabrakan, sesuai dengan hukum kekekalan momentum.
     
-    //Tugas Efektifitas Cooling Pad dalam menjaga suhu laptop, membuat perbandingan stress test dengan cooling pad dan tanpa cooling pad, serta menganalisis hasil perbedaan suhunya.    
+    //Tugas Efektifitas Cooling Pad dalam menjaga suhu laptop, membuat perbandingan stress test dengan cooling pad dan tanpa cooling pad, serta menganalisis hasil perbedaan suhunya.
 
     //untuk materi hari ini cukup sekian.
 
