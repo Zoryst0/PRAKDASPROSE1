@@ -40,7 +40,7 @@ public class newthingilearnedm3 {
     //Selain itu, ada juga satuan ukur yang digunakan secara khusus dalam bidang tertentu, seperti satuan ukur untuk panjang dalam astronomi (parsec) atau satuan ukur untuk energi dalam fisika nuklir (electronvolt).
 
     //Gerak adalah perubahan posisi suatu benda terhadap waktu. Gerak dapat dibedakan menjadi beberapa jenis, antara lain: gerak lurus, gerak melingkar, dan gerak osilasi. Gerak lurus adalah gerak suatu benda dalam lintasan lurus, sedangkan gerak melingkar adalah gerak suatu benda dalam lintasan melingkar. Gerak osilasi adalah gerak suatu benda yang berulang-ulang melalui titik keseimbangan.
-    //
+    //Gerak lurus sendiri dibagi menjadi beberapa jenis
 
 
     //GLB atau Gerak Lurus Beraturan adalah gerak suatu benda dalam lintasan lurus dengan kecepatan tetap. Dalam GLB, percepatan benda adalah nol, sehingga kecepatan benda tidak berubah seiring waktu.
