@@ -35,7 +35,9 @@ public class newthingilearnedm3 {
     //Alat Ukur
     //Alat ukur adalah perangkat yang digunakan untuk mengukur besaran fisika. Contohnya adalah penggaris, timbangan, dan stopwatch.
     //Alat ukur memiliki ketelitian dan akurasi yang berbeda-beda, tergantung pada jenis dan kualitas alat tersebut.
-
+    
+    //Ada Banyak satuan ukur standard yang tidak digunakan secara universal seperti Kelvin yang adalah satuan standar untuk suhu, tetapi yang lebih umum digunakan dalam kehidupan sehari-hari adalah Celcius. 
+    
 
 
 
