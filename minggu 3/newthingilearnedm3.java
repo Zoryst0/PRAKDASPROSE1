@@ -37,7 +37,7 @@ public class newthingilearnedm3 {
     //Alat ukur memiliki ketelitian dan akurasi yang berbeda-beda, tergantung pada jenis dan kualitas alat tersebut.
     
     //Ada Banyak satuan ukur standard yang tidak digunakan secara universal seperti Kelvin yang adalah satuan standar untuk suhu, tetapi yang lebih umum digunakan dalam kehidupan sehari-hari adalah Celcius. 
-    
+    //Selain itu, ada juga satuan ukur yang digunakan secara khusus dalam bidang tertentu, seperti satuan ukur untuk panjang dalam astronomi (parsec) atau satuan ukur untuk energi dalam fisika nuklir (electronvolt).
 
 
 
