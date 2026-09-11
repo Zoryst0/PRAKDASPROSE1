@@ -40,12 +40,17 @@ public class newthingilearnedm3 {
     //Selain itu, ada juga satuan ukur yang digunakan secara khusus dalam bidang tertentu, seperti satuan ukur untuk panjang dalam astronomi (parsec) atau satuan ukur untuk energi dalam fisika nuklir (electronvolt).
 
     //Gerak adalah perubahan posisi suatu benda terhadap waktu. Gerak dapat dibedakan menjadi beberapa jenis, antara lain: gerak lurus, gerak melingkar, dan gerak osilasi. Gerak lurus adalah gerak suatu benda dalam lintasan lurus, sedangkan gerak melingkar adalah gerak suatu benda dalam lintasan melingkar. Gerak osilasi adalah gerak suatu benda yang berulang-ulang melalui titik keseimbangan.
-    //
-
-
+    //Gerak lurus sendiri terbagi menjadi dua jenis, yaitu GLB (Gerak Lurus Beraturan) dan GLBB (Gerak Lurus Berubah Beraturan).
     //GLB atau Gerak Lurus Beraturan adalah gerak suatu benda dalam lintasan lurus dengan kecepatan tetap. Dalam GLB, percepatan benda adalah nol, sehingga kecepatan benda tidak berubah seiring waktu.
+    //GLB dapat dijelaskan dengan rumus: v = s / t, di mana v adalah kecepatan, s adalah jarak yang ditempuh, dan t adalah waktu yang dibutuhkan untuk menempuh jarak tersebut.
+    //GLB dapat digambarkan dengan grafik kecepatan terhadap waktu yang berupa garis lurus horizontal, karena kecepatan tetap konstan sepanjang waktu.
+    
     //GLBB atau Gerak Lurus Berubah Beraturan adalah gerak suatu benda dalam lintasan lurus dengan percepatan tetap. Dalam GLBB, kecepatan benda berubah seiring waktu karena adanya percepatan.
-
+    //GLBB dapat dijelaskan dengan rumus: v = v0 + a * t, di mana v adalah kecepatan akhir, v0 adalah kecepatan awal, a adalah percepatan, dan t adalah waktu yang dibutuhkan untuk mencapai kecepatan akhir.
+    //GLBB dapat digambarkan dengan grafik kecepatan terhadap waktu yang berupa garis lurus miring, karena kecepatan berubah secara linear seiring waktu.
+    
+    
+    
 
 
 
