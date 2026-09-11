@@ -27,7 +27,11 @@ public class newthingilearnedm3 {
 
     // from line written to file, the program reads each line, trims whitespace, and adds non-empty lines to a list. If the file doesn't exist, it initializes the list with default data and saves it.
 
-
+// Fisika
+    //Besaran Scalar dan Vektor
+    //Besaran Scalar adalah besaran yang hanya memiliki besar (magnitude) saja, tanpa arah. Contohnya adalah massa, suhu, dan waktu.
+    //Besaran Vektor adalah besaran yang memiliki besar (magnitude) dan arah.
+    
 
 
 
