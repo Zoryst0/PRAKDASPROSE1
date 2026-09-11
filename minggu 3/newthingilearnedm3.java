@@ -41,6 +41,7 @@ public class newthingilearnedm3 {
 
     //Gerak adalah perubahan posisi suatu benda terhadap waktu. Gerak dapat dibedakan menjadi beberapa jenis, antara lain: gerak lurus, gerak melingkar, dan gerak osilasi. Gerak lurus adalah gerak suatu benda dalam lintasan lurus, sedangkan gerak melingkar adalah gerak suatu benda dalam lintasan melingkar. Gerak osilasi adalah gerak suatu benda yang berulang-ulang melalui titik keseimbangan.
     //Gerak lurus sendiri terbagi menjadi dua jenis, yaitu GLB (Gerak Lurus Beraturan) dan GLBB (Gerak Lurus Berubah Beraturan).
+    
     //GLB atau Gerak Lurus Beraturan adalah gerak suatu benda dalam lintasan lurus dengan kecepatan tetap. Dalam GLB, percepatan benda adalah nol, sehingga kecepatan benda tidak berubah seiring waktu.
     //GLB dapat dijelaskan dengan rumus: v = s / t, di mana v adalah kecepatan, s adalah jarak yang ditempuh, dan t adalah waktu yang dibutuhkan untuk menempuh jarak tersebut.
     //GLB dapat digambarkan dengan grafik kecepatan terhadap waktu yang berupa garis lurus horizontal, karena kecepatan tetap konstan sepanjang waktu.
@@ -49,9 +50,35 @@ public class newthingilearnedm3 {
     //GLBB dapat dijelaskan dengan rumus: v = v0 + a * t, di mana v adalah kecepatan akhir, v0 adalah kecepatan awal, a adalah percepatan, dan t adalah waktu yang dibutuhkan untuk mencapai kecepatan akhir.
     //GLBB dapat digambarkan dengan grafik kecepatan terhadap waktu yang berupa garis lurus miring, karena kecepatan berubah secara linear seiring waktu.
     
+    //Selain Gerak Lurus, ada juga Gerak Melingkar yang merupakan gerak suatu benda dalam lintasan melingkar. Gerak Melingkar dapat dibedakan menjadi dua jenis, yaitu Gerak Melingkar Beraturan (GMB) dan Gerak Melingkar Tidak Beraturan (GMTB).
     
+    //GMB atau Gerak Melingkar Beraturan adalah gerak suatu benda dalam lintasan melingkar dengan kecepatan sudut tetap. Dalam GMB, percepatan sentripetal bekerja pada benda yang mengarah ke pusat lingkaran.
+    //GMB dapat dijelaskan dengan rumus: v = r * ω, di mana v adalah kecepatan linear, r adalah jari-jari lintasan melingkar, dan ω adalah kecepatan sudut.
+    //GMB dapat digambarkan dengan grafik kecepatan linear terhadap waktu yang berupa garis lurus horizontal, karena kecepatan linear tetap konstan sepanjang waktu.
     
+    //GMTB atau Gerak Melingkar Tidak Beraturan adalah gerak suatu benda dalam lintasan melingkar dengan kecepatan sudut yang berubah-ubah. Dalam GMTB, percepatan sentripetal dan percepatan tangensial bekerja pada benda.
+    //GMTB dapat dijelaskan dengan rumus: v = r * ω, di mana v adalah kecepatan linear, r adalah jari-jari lintasan melingkar, dan ω adalah kecepatan sudut yang berubah-ubah.
+    //GMTB dapat digambarkan dengan grafik kecepatan linear terhadap waktu yang berupa garis lurus miring, karena kecepatan linear berubah secara linear seiring waktu.
+    
+    //Selain itu, ada juga Gerak Osilasi yang merupakan gerak suatu benda yang berulang-ulang melalui titik keseimbangan. Gerak Osilasi dapat dibedakan menjadi dua jenis, yaitu Gerak Harmonik Sederhana (GHS) dan Gerak Harmonik Tidak Sederhana (GHTS).
+    //GHS atau Gerak Harmonik Sederhana adalah gerak suatu benda yang berulang-ulang melalui titik keseimbangan dengan periode dan amplitudo tetap. Dalam GHS, percepatan benda sebanding dengan simpangan dari titik keseimbangan.
+    //GHS dapat dijelaskan dengan rumus: x = A * sin(ω * t + φ), di mana x adalah simpangan, A adalah amplitudo, ω adalah frekuensi sudut, t adalah waktu, dan φ adalah fase awal.
+    //GHS dapat digambarkan dengan grafik simpangan terhadap waktu yang berupa gelombang sinusoidal, karena simpangan berubah secara periodik seiring waktu.
 
+    //GHTS atau Gerak Harmonik Tidak Sederhana adalah gerak suatu benda yang berulang-ulang melalui titik keseimbangan dengan periode dan amplitudo yang berubah-ubah. Dalam GHTS, percepatan benda tidak sebanding dengan simpangan dari titik keseimbangan.
+    //GHTS dapat dijelaskan dengan rumus yang lebih kompleks, tergantung pada sistem yang diamati, dan biasanya memerlukan analisis numerik untuk memprediksi perilaku gerak.
+    //GHTS dapat digambarkan dengan grafik simpangan terhadap waktu yang tidak berbentuk gelombang sinusoidal, karena simpangan berubah secara tidak periodik seiring waktu.
+
+    //Selain itu, ada juga konsep energi dalam fisika, yang merupakan kemampuan suatu benda untuk melakukan kerja. Energi dapat dibedakan menjadi beberapa jenis, antara lain: energi kinetik, energi potensial, energi mekanik, energi panas, dan energi listrik.
+    //Energi kinetik adalah energi yang dimiliki oleh suatu benda karena geraknya. Energi kinetik dapat dijelaskan dengan rumus: Ek = 1/2 * m * v^2, di mana Ek adalah energi kinetik, m adalah massa benda, dan v adalah kecepatan benda.
+    //Energi potensial adalah energi yang dimiliki oleh suatu benda karena posisinya dalam medan gaya. Energi potensial dapat dijelaskan dengan rumus: Ep = m * g * h, di mana Ep adalah energi potensial, m adalah massa benda, g adalah percepatan gravitasi, dan h adalah ketinggian benda dari titik referensi.
+    //Energi mekanik adalah jumlah energi kinetik dan energi potensial yang dimiliki oleh suatu benda. Energi mekanik dapat dijelaskan dengan rumus: Em = Ek + Ep, di mana Em adalah energi mekanik, Ek adalah energi kinetik, dan Ep adalah energi potensial.
+    //Energi panas adalah energi yang dimiliki oleh suatu benda karena gerakan partikel-partikelnya. Energi panas dapat dijelaskan dengan rumus: Q = m * c * ΔT, di mana Q adalah energi panas, m adalah massa benda, c adalah kapasitas panas jenis benda, dan ΔT adalah perubahan suhu benda.
+    //Energi listrik adalah energi yang dimiliki oleh suatu benda karena adanya muatan listrik. Energi listrik dapat dijelaskan dengan rumus: E = V * I * t, di mana E adalah energi listrik, V adalah tegangan listrik, I adalah arus listrik, dan t adalah waktu.
+    
+    //Selain itu, ada juga konsep momentum dalam fisika, yang merupakan ukuran dari jumlah gerak suatu benda. Momentum dapat dijelaskan dengan rumus: p = m * v, di mana p adalah momentum, m adalah massa benda, dan v adalah kecepatan benda. Momentum dapat berubah jika ada gaya eksternal yang bekerja pada benda tersebut.
+    //Contoh pengaplikasiannya adalah pada tabrakan antara dua benda, di mana momentum total sebelum tabrakan sama dengan momentum total setelah tabrakan, sesuai dengan hukum kekekalan momentum.
+    //
 
 
 
