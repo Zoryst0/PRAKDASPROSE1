@@ -87,8 +87,16 @@ public class newthingilearnedm3 {
 
     //12/09/26 things to learn:
 
+    //13/09/26 things to learn:
 
+    //14/09/26 things to learn:
+    
+    //15/09/26 things to learn:
+
+    //16/09/26 things to learn:
 //Prakdaspro
+    //M4 16/09/26
+
 
 
 
