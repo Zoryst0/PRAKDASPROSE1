@@ -39,6 +39,7 @@ public class newthingilearnedm3 {
     //Ada Banyak satuan ukur standard yang tidak digunakan secara universal seperti Kelvin yang adalah satuan standar untuk suhu, tetapi yang lebih umum digunakan dalam kehidupan sehari-hari adalah Celcius. 
     //Selain itu, ada juga satuan ukur yang digunakan secara khusus dalam bidang tertentu, seperti satuan ukur untuk panjang dalam astronomi (parsec) atau satuan ukur untuk energi dalam fisika nuklir (electronvolt).
 
+    //Gerak adalah perubahan posisi suatu benda terhadap waktu. Gerak dapat dibedakan menjadi beberapa jenis, antara lain: gerak lurus, gerak melingkar, dan gerak osilasi. Gerak lurus adalah gerak suatu benda dalam lintasan lurus, sedangkan gerak melingkar adalah gerak suatu benda dalam lintasan melingkar. Gerak osilasi adalah gerak suatu benda yang berulang-ulang melalui titik keseimbangan.
 
 
 
