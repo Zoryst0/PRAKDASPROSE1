@@ -32,6 +32,14 @@ public class newthingilearnedm3 {
     //Besaran Scalar adalah besaran yang hanya memiliki besar (magnitude) saja, tanpa arah. Contohnya adalah massa, suhu, dan waktu.
     //Besaran Vektor adalah besaran yang memiliki besar (magnitude) dan arah.
 
+    //Alat Ukur
+    //Alat ukur adalah perangkat yang digunakan untuk mengukur besaran fisika. Contohnya adalah penggaris, timbangan, dan stopwatch.
+    
+
+
+
+
+
     //GLB atau Gerak Lurus Beraturan adalah gerak suatu benda dalam lintasan lurus dengan kecepatan tetap. Dalam GLB, percepatan benda adalah nol, sehingga kecepatan benda tidak berubah seiring waktu.
     //GLBB atau Gerak Lurus Berubah Beraturan adalah gerak suatu benda dalam lintasan lurus dengan percepatan tetap. Dalam GLBB, kecepatan benda berubah seiring waktu karena adanya percepatan.
 
