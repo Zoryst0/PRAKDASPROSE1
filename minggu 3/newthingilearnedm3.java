@@ -67,7 +67,8 @@ public class newthingilearnedm3 {
     //Selain itu, ada juga Gerak Osilasi yang merupakan gerak suatu benda yang berulang-ulang melalui titik keseimbangan. Gerak Osilasi dapat dibedakan menjadi dua jenis, yaitu Gerak Harmonik Sederhana (GHS) dan Gerak Harmonik Tidak Sederhana (GHTS).
     //GHS atau Gerak Harmonik Sederhana adalah gerak suatu benda yang berulang-ulang melalui titik keseimbangan dengan periode dan amplitudo tetap. Dalam GHS, percepatan benda sebanding dengan simpangan dari titik keseimbangan.
     //GHS dapat dijelaskan dengan rumus: x = A * sin(ω * t + φ), di mana x adalah simpangan, A adalah amplitudo, ω adalah frekuensi sudut, t adalah waktu, dan φ adalah fase awal.
-    //GHS dapat digambarkan dengan grafik simpangan terhadap waktu yang berupa gelombang sinusoidal, karena simpangan berubah secara periodik seiring waktu.
+    //GHS dapat digambarkan dengan grafik simpangan terhadap waktu yang berupa gelombang sinusoidal, karena simpangan berubah secara periodik seiring waktu. 
+    //test adding
 
     //GHTS atau Gerak Harmonik Tidak Sederhana adalah gerak suatu benda yang berulang-ulang melalui titik keseimbangan dengan periode dan amplitudo yang berubah-ubah. Dalam GHTS, percepatan benda tidak sebanding dengan simpangan dari titik keseimbangan.
     //GHTS dapat dijelaskan dengan rumus yang lebih kompleks, tergantung pada sistem yang diamati, dan biasanya memerlukan analisis numerik untuk memprediksi perilaku gerak.
