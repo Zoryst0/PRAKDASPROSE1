@@ -27,6 +27,10 @@ public class newthingilearnedm3 {
 
     // from line written to file, the program reads each line, trims whitespace, and adds non-empty lines to a list. If the file doesn't exist, it initializes the list with default data and saves it.
 
+
+    //11/09/26 things to learn:
+
+
 // Fisika
     //Besaran Scalar dan Vektor
     //Besaran Scalar adalah besaran yang hanya memiliki besar (magnitude) saja, tanpa arah. Contohnya adalah massa, suhu, dan waktu.
@@ -78,7 +82,14 @@ public class newthingilearnedm3 {
     
     //Selain itu, ada juga konsep momentum dalam fisika, yang merupakan ukuran dari jumlah gerak suatu benda. Momentum dapat dijelaskan dengan rumus: p = m * v, di mana p adalah momentum, m adalah massa benda, dan v adalah kecepatan benda. Momentum dapat berubah jika ada gaya eksternal yang bekerja pada benda tersebut.
     //Contoh pengaplikasiannya adalah pada tabrakan antara dua benda, di mana momentum total sebelum tabrakan sama dengan momentum total setelah tabrakan, sesuai dengan hukum kekekalan momentum.
-    //
+    
+    //untuk materi hari ini cukup sekian.
+
+    //12/09/26 things to learn:
+
+
+//Prakdaspro
+
 
 
 
