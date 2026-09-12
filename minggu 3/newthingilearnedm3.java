@@ -87,7 +87,10 @@ public class newthingilearnedm3 {
     //Tugas Efektifitas Cooling Pad dalam menjaga suhu laptop, membuat perbandingan stress test dengan cooling pad dan tanpa cooling pad, serta menganalisis hasil perbedaan suhunya.
 
     //untuk materi minggu ini cukup sekian. note 11/09/26 Jumat
-    //apple green new 1234567
+    //apple green new 123456789
     //yellow pear
     //new
+
+    //Minggu, 13/09/26 Elia Beril tidak mengikuti manajerial diri
+    //melanjutkan repos github dan mengerjakan tugas b.ing sambil belajar untuk quiz daspro 
 }
