@@ -88,4 +88,6 @@ public class newthingilearnedm3 {
 
     //untuk materi minggu ini cukup sekian. note 11/09/26 Jumat
     //apple green new 1234567
+    //yellow pear
+    //new
 }
