@@ -95,4 +95,5 @@ public class newthingilearnedm3 {
     //melanjutkan repos github dan mengerjakan tugas b.ing sambil belajar untuk quiz daspro
     //persiapan Senin, 14/09/26 
     //diri dan pengetahuan mengenai kuis daspro 
+    //bawa laptop untuk memperbaiki ppt bahasa inggris
 }
