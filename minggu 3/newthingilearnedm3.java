@@ -94,5 +94,5 @@ public class newthingilearnedm3 {
     //Minggu, 13/09/26 Elia Beril tidak mengikuti manajerial diri
     //melanjutkan repos github dan mengerjakan tugas b.ing sambil belajar untuk quiz daspro
     //persiapan Senin, 14/09/26 
-    //diri dan pengetahuan mengenai kuis daspro
+    //diri dan pengetahuan mengenai kuis daspro 
 }
