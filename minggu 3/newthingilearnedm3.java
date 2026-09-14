@@ -104,6 +104,7 @@ public class newthingilearnedm3 {
     //Senin, 14/09/26 21:55 belajar materi pertemuan 1 matematika dasar Logika
     //operator logika
     //NOT (¬), AND (∧), OR (∨), IMPLIKASI (→), BIIMPLIKASI (↔)
-    //NOT
+    //NOT (¬) menegasikan value suatu variabel
+    //
 
 }
