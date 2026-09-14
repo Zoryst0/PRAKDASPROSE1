@@ -101,6 +101,8 @@ public class newthingilearnedm3 {
     //melanjutkan ppt bhs inggris dengan mark excellent dari dosen
     //mengerjakan praktek fisika tentang efektifitas cooling pad saat stress test laptop tergantung kecepatannya
     //mempersiapkan diri untuk quiz matematika dasar dan possibly quiz ctps
-    
+    //Senin, 14/09/26 21:55 belajar materi pertemuan 1 matematika dasar Logika
+    //
+
 
 }
