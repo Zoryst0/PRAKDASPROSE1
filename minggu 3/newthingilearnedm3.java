@@ -96,4 +96,7 @@ public class newthingilearnedm3 {
     //persiapan Senin, 14/09/26 
     //diri dan pengetahuan mengenai kuis daspro 
     //bawa laptop untuk memperbaiki ppt bahasa inggris
+
+    //Senin, 14/09/26 Elia Beril mengerjakan Quiz Daspro hasil benar 24 salah 16 hasil akhir 60
+    //melanjutkan ppt bhs inggris dengan mark excellent dari dosen
 }
