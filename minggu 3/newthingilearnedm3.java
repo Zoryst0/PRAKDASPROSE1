@@ -99,4 +99,6 @@ public class newthingilearnedm3 {
 
     //Senin, 14/09/26 Elia Beril mengerjakan Quiz Daspro hasil benar 24 salah 16 hasil akhir 60
     //melanjutkan ppt bhs inggris dengan mark excellent dari dosen
+    //mengerjakan praktek fisika tentang efektifitas cooling pad saat stress test laptop tergantung kecepatannya
+    
 }
