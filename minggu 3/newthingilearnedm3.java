@@ -105,6 +105,6 @@ public class newthingilearnedm3 {
     //operator logika
     //NOT (¬), AND (∧), OR (∨), IMPLIKASI (→), BIIMPLIKASI (↔)
     //NOT (¬) menegasikan value suatu variabel
-    //AND (∧) untuk menandakan bahwa variabel yang berkaitan harus bernilai sama untuk menghasilkan true
+    //AND (∧) untuk menandakan bahwa
 
 }
