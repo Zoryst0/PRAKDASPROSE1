@@ -1,12 +1,12 @@
 import java.util.Scanner;
 
-public class GajiKaryawan13{
+public class GajiKaryawanNoAbsen {
     public static void main(String[] args) {
-        
         Scanner sc = new Scanner(System.in);
         
         int gajiPokok;
-        double bonus, totGaji;
+        double bonus;
+        int totGaji; 
         double tunjTransp = 600000;
         double tunjMkn = 400000;
         
@@ -15,7 +15,7 @@ public class GajiKaryawan13{
         
         bonus = 0.05 * gajiPokok;
         
-        totGaji = gajiPokok + tunjTransp + tunjMkn + bonus - (0.1 * gajiPokok);
+        totGaji = (int) (gajiPokok + tunjTransp + tunjMkn + bonus - (0.1 * gajiPokok));
         
         System.out.println("Bonus Bulanan anda adalah Rp. " + bonus);
         System.out.println("Gaji yang diterima adalah Rp. " + totGaji);
