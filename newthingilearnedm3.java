@@ -116,6 +116,6 @@ public class newthingilearnedm3 {
     //lanjut presentasi kelompok 4
 
     //Rabu, 16/09/26
-    //a bc def ghij klmno pqrstu
+    //a bc def ghij klmno pqrstu vwxyz
     
 }
