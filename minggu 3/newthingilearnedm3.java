@@ -107,4 +107,14 @@ public class newthingilearnedm3 {
     //NOT (¬) menegasikan value suatu variabel
     //AND (∧) untuk menandakan bahwa
 
+    //Selasa, 15/09/26 Elia beril belajar 3 matkul 
+    //Matdas
+    //quiz
+    //CTPS
+    //individu dan kelompok
+    //Pancasila 
+    //lanjut presentasi kelompok 4
+
+    //Rabu, 16/09/26
+    
 }
