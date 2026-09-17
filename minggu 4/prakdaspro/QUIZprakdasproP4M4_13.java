@@ -99,4 +99,4 @@ public class QUIZprakdasproP4M4_13 {
 //Rabu, 16/09/26 
 //Code selesai pada 13:51
 //Elia Beril
-//
+// Me
