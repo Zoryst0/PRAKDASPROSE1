@@ -8,6 +8,7 @@ public class meTEST123 {
 
         int nomor;
         String nama;
+        String kelas;
     }
 
     //because its never used
