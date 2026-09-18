@@ -1,4 +1,5 @@
 import java.util.Scanner;
+import java.util.function.*;
 
 public class meTEST123 {
 //this only test
