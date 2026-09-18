@@ -6,8 +6,8 @@ public class meTEST123 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        int nama;
-        double aku;
+        int nomor;
+        String nama;
     }
 
     //because its never used
