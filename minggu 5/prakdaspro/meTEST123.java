@@ -6,4 +6,6 @@ public class meTEST123 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
     }
+
+    //because its never used
 }
