@@ -41,6 +41,8 @@ public class test13 {
         System.out.println("Harga Sebelum Diskon         : " + totsebelumdiskon);
         System.out.println("Total Bayar                  : " + totbay);
         
+        System.out.print("\n <==== Tipe Pembayaran ====>");
+        System.out.print("\n Pilih");
         
         
 

@@ -9,6 +9,12 @@ public class meTEST123 {
         int nomor;
         String nama;
         String kelas;
+        String NIM;
+        String Jurusan;
+        float IPK;
+        float IPS;
+        float 
+
     }
 
     //because its never used
