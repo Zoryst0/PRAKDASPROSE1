@@ -43,7 +43,7 @@ public class test13 {
         
         System.out.print("\n <==== Tipe Pembayaran ====>");
         System.out.print("\n Pilih");
-        
+        System.out.println("ak");
         
 
 
