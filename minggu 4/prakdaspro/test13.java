@@ -45,6 +45,7 @@ public class test13 {
         System.out.print("\n Pilih");
         System.out.println("ak");
         System.out.println("anodized");
+        System.out.println("hamparan");
         
 
 
