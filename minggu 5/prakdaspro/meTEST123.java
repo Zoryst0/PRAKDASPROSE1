@@ -13,7 +13,7 @@ public class meTEST123 {
         String Jurusan;
         float IPK;
         float IPS;
-        float 
+        float tambahan;
 
     }
 
