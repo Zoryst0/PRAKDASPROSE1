@@ -14,6 +14,7 @@ public class meTEST123 {
         float IPK;
         float IPS;
         float tambahan;
+        double kehadiran;
 
     }
 
