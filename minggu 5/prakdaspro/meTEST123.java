@@ -11,10 +11,11 @@ public class meTEST123 {
         String kelas;
         String NIM;
         String Jurusan;
+        double kehadiran;
         float IPK;
         float IPS;
         float tambahan;
-        double kehadiran;
+        String keterangan;
 
     }
 
