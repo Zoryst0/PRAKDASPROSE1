@@ -56,7 +56,8 @@ public class test13 {
 
         if (Konfirmasi.ishariinclass)
         System.out.println("Konfirmasi     :              ");
-
+        
+        else (Konfirmasi)
         
 
 
