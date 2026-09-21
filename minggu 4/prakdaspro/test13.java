@@ -54,6 +54,11 @@ public class test13 {
         System.out.println("<==== Tanggal Pembayaran ====>");
         System.out.println("Hari Transaksi :              ");
 
+        if (Konfirmasi)
+        System.out.println("Konfirmasi     :              ");
+
+        
+
 
 
     }    
