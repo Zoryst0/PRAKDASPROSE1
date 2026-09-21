@@ -51,6 +51,8 @@ public class test13 {
         int tanggal;
         String hari;
         
+        System.out.println("<==== Tanggal Pembayaran ====>");
+        System.out.println("Hari Transaksi :              ");
 
 
 
