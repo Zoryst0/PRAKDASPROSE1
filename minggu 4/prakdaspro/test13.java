@@ -46,6 +46,7 @@ public class test13 {
         System.out.println("ak");
         System.out.println("anodized");
         System.out.println("hamparan");
+        System.out.println("internal design cant be resolved");
         
 
 
