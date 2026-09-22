@@ -70,6 +70,8 @@ public class test13 {
         System.out.println("i dont care");
         System.out.println("dja");
         System.out.println("applepie");
+        System.out.println("print");
+        int main;
 
 
 
