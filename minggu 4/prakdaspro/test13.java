@@ -66,6 +66,7 @@ public class test13 {
         System.out.println("Wetz");
         System.out.println("joblesswwwwwwwwwww");
         System.out.println("joblesswwwwwwwwwww");
+        im new to palolan;
         System.out.println("dja");
         System.out.println("applepie");
 
