@@ -58,7 +58,22 @@ public class test13 {
         
         System.out.println("hj");
         System.out.println("line1");
-
+        System.out.println("True");
+        System.out.println("harde");
+        System.out.println("Internal defiance");
+        System.out.println("kjhgf");
+        System.out.println("ofasj");
+        System.out.println("djaoj");
+        System.out.println("Wetz");
+        System.out.println("joblesswwwwwwwwwww");
+        System.out.println("joblesswwwwwwwwwww");
+        System.out.println("i dont care");
+        System.out.println("dja");
+        System.out.println("applepie");
+        System.out.println("print");
+        int main;
+        String halfed;
+        double countdown;
 
 
 
