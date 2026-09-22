@@ -16,7 +16,8 @@ public class meTEST123 {
         float IPS;
         float tambahan;
         String keterangan;
-        String Mata Kuliah;
+        String MataKuliah;
+        int poinkehadiran;
 
     }
 
