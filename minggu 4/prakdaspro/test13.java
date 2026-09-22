@@ -66,7 +66,13 @@ public class test13 {
         System.out.println("joblesswwwwwwwwwww");
         System.out.println("joblesswwwwwwwwwww");
         im new to palolan;
-        S
+        System.out.println("i dont care");
+        System.out.println("dja");
+        System.out.println("applepie");
+        System.out.println("print");
+        int main;
+        String halfed;
+        double countdown;
 
 
 
