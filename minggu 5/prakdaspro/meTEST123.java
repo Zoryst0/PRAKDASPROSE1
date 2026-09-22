@@ -18,6 +18,7 @@ public class meTEST123 {
         String keterangan;
         String MataKuliah;
         int poinkehadiran;
+        String TempatTanggalLahir;
 
     }
 
