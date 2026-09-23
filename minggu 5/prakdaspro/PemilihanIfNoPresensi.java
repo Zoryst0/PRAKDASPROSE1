@@ -11,6 +11,11 @@ public class PemilihanIfNoPresensi {
         if (uktLunas) {
             System.out.println("Pembayaran UKT terverifikasi");
             System.out.println("Silakan cetak KRS dan minta tanda tangan DPA");
+        
+            
+
+        
+        
         }
     }
 }
