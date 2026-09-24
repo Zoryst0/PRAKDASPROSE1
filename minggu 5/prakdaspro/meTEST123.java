@@ -20,6 +20,7 @@ public class meTEST123 {
         int poinkehadiran;
         String TempatTanggalLahir;
         int UKT;
+        int asal;
 
         if (UKT >= 5000000) {
             System.out.println("Nominal Yang Harus dibayar", + UKT);
