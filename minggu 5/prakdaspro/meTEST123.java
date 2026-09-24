@@ -19,7 +19,7 @@ public class meTEST123 {
         String MataKuliah;
         int poinkehadiran;
         String TempatTanggalLahir;
-        int UKT
+        int UKT;
 
     }
 
