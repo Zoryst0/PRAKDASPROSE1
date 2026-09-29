@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PemilihanIfNoPresensi {
+public class PemilihanIf13 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
