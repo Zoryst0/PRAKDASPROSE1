@@ -1,23 +1,25 @@
 # JOBSHEET 4 PEMILIHAN 1 
 
 
-### Identitas Mahasiswa :
-* Nama               : [Elia Beril](https://www.instagram.com/ellxzrst.22/)
-* NIM                : [264107020027]
-* Kelas/No. Presensi : [TI-1D/13]
+**Identitas Mahasiswa :**
+* **Nama               : [Elia Beril](https://www.instagram.com/ellxzrst.22/)**
+* **NIM                : [264107020027]**
+* **Kelas/No. Presensi : [TI-1D/13]**
+
 ---
 ## 1 Tujuan Praktikum
-Berikut adalah tujuan pelaksanaan praktikum pada materi Pemilihan
 > 1. Mahasiswa mampu menyelesaikan permasalahan/studi kasus menggunakan sintaks
 pemilihan sederhana
 > 2. Mahasiswa mampu menerapkan sintaks pemilihan sederhana ke dalam program Java
 
-## 2. Hasil Percobaan & Analisis
-> 2.1 Percobaan 1: Penerapan IF dan IF-ELSE untuk Mencetak KRS
-Waktu Percobaan: 40 menit
-#### Pada awal setiap semester, mahasiswa wajib mencetak KRS untuk ditanda tangani oleh Dosen Pembina Akademik. SIAKAD akan memeriksa status pembayaran UKT mahasiswa. Jika mahasiswa sudah melunasi UKT, maka sistem menampilkan KRS untuk dicetak. Berdasarkan kasus tersebut, program Java dibuat dengan langkah-langkah [berikut.](https://lmsslc.polinema.ac.id/pluginfile.php/552836/mod_resource/content/0/Jobsheet%204.pdf)
+---
+## 2: HASIL PERCOBAAN & ANALISIS
 
-> 2.1.1 Kode Program Sesuai Langkah"
+### 2.1 Percobaan 1: Penerapan IF dan IF-ELSE untuk Mencetak KRS
+
+#### 2.1.1 Kode Program Java
+
+[](.java)
 
 ```java
 import java.util.Scanner;
