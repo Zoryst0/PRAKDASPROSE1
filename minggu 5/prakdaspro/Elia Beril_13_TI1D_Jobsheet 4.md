@@ -1,4 +1,4 @@
-# JOBSHEET 4 PEMILIHAN 1 
+# JOBSHEET 5 PEMILIHAN 1 
 
 
 **Identitas Mahasiswa :**
@@ -19,7 +19,7 @@ pemilihan sederhana
 
 #### 2.1.1 Kode Program Java
 
-[](.java)
+[Pemilihanif13.java](/minggu_5/prakdaspro/Pemilihanif13.java)
 
 ```java
 import java.util.Scanner;
