@@ -19,7 +19,7 @@ pemilihan sederhana
 
 #### 2.1.1 Kode Program Java
 
-[Pemilihanif13.java](/minggu_5/prakdaspro/Pemilihanif13.java)
+[Pemilihanif13.java](Pemilihanif13.java)
 
 ```java
 import java.util.Scanner;
