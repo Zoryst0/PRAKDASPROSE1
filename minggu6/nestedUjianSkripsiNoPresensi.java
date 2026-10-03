@@ -7,6 +7,7 @@ public class nestedUjianSkripsiNoPresensi {
 
         // Deklarasi variabel pesan bertipe String
         String pesan;
+        String Nilai;
 
         // Menerima masukan status bebas kompen
         System.out.print("Apakah mahasiswa sudah bebas kompen? (Ya/Tidak): ");
