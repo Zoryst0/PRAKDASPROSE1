@@ -30,7 +30,7 @@
 
 # 1. Percobaan 1 — IF dan IF-ELSE
 
-📄 File: `PemilihanIf13.java`
+📄 File: [Experiment1](minggu5/prakdaspro/PemilihanIf13.java) `PemilihanIf13.java`
 
 ### ❓ Pertanyaan 1
 **Nilai apa yang harus dimasukkan agar kedua baris di dalam blok IF ikut tercetak? Jelaskan mengapa hanya nilai tersebut yang diterima!**
