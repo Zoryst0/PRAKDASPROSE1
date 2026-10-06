@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Pemilihanifelse13elia {
+public class PemilihanIfElse13exp {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -8,7 +8,6 @@ public class Pemilihanifelse13elia {
         System.out.print("Masukkan semester saat ini: ");
         int semester = sc.nextInt();
 
-        // Struktur pemilihan IF - ELSE IF - ELSE
         if (semester == 1) {
             System.out.println("KRS Semester 1 ditampilkan");
         } else if (semester == 2) {
@@ -28,7 +27,6 @@ public class Pemilihanifelse13elia {
         } else {
             System.out.println("Semester tidak valid");
         }
-
         sc.close();
     }
 }
