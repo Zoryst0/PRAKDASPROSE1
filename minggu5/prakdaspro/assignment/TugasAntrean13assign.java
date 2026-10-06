@@ -28,5 +28,6 @@ public class TugasAntrean13assign {
             default:
                 System.out.println("Kode layanan tidak tersedia");
         }
+        sc.close();
     }
 }

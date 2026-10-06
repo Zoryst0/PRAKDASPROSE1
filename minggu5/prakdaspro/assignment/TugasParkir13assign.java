@@ -23,5 +23,6 @@ public class TugasParkir13assign {
             int tarif = 5000 + (lama - 1) * 3000;
             System.out.println("Tarif parkir mobil: Rp" + tarif);
         }
+        sc.close();
     }
 }

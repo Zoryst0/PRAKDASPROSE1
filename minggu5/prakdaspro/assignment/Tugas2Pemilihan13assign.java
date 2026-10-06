@@ -12,5 +12,6 @@ public class Tugas2Pemilihan13assign {
         } else {
             System.out.println("KRS valid");
         }
+        sc.close();
     }
 }
