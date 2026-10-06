@@ -1,17 +1,19 @@
 <div align="center">
 
-# 📘 JOBSHEET 4 — PEMILIHAN 1
+# 📘 JOBSHEET 4 — PEMILIHAN 1 📘
 
 **Dasar Pemrograman 2026 · Politeknik Negeri Malang**
 
 </div>
 
+| | |
 |---|---|
 | 👤 **Nama** | Elia Beril |
 | 🆔 **NIM** | 264107020027 |
 | 🔢 **No. Presensi** | 13 |
 | 📚 **Mata Kuliah** | Dasar Pemrograman |
-| ☕ **Bahasa** | Java (diuji dengan OpenJDK 21) |
+| 📝 **Materi** | Pemlihan 1 |
+| ☕ **Bahasa** | Java |
 
 > 📝 Dokumen ini hanya memuat **Pertanyaan** (Percobaan 1 & 2) dan **Tugas**. Langkah-langkah praktikum dan contoh tidak diulang. Semua hasil *run* pada dokumen ini berasal dari program yang benar-benar dijalankan.
 
