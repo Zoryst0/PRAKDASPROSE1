@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| 👤 **Nama** | Elia Beril |
+| 👤 **Nama** | [Elia Beril](https://www.instagram.com/ellxzrst.22/) |
 | 🆔 **NIM** | 264107020027 |
 | 🔢 **No. Presensi** | 13 |
 | 📚 **Mata Kuliah** | Dasar Pemrograman |
