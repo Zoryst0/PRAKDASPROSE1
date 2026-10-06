@@ -1148,12 +1148,13 @@ public class Pph21Progresif13addassign {
 
 ---
 
-# 6. Catatan Asumsi
+# 6. Catatan
 
-- Nama file memakai **nomor presensi 13** menggantikan `NoPresensi` pada jobsheet, ditambah akhiran folder (`exp`, `assign`, `addassign`), mis. `Tugas1Pemilihan13assign.java`. Nama `class` di dalam file mengikuti nama file persis.
-- Aturan **Sistem Parkir** dan **Mesin Antrean Akademik** diasumsikan karena slide hlm. 33 tidak tersedia. Struktur kode tinggal disesuaikan dengan flowchart dan pseudocode Anda.
+- Nama file memakai **nomor presensi 13 (no presensi author)** menggantikan `NoPresensi` pada jobsheet, ditambah akhiran folder (`exp`, `assign`, `addassign`), mis. `Tugas1Pemilihan13assign.java`. Nama `class` di dalam file mengikuti nama file persis.
+- Aturan **Sistem Parkir** dan **Mesin Antrean Akademik** saya mengambil nilai asumsi karena dalam jobsheet nilai tidak disediakan. Struktur kode tinggal disesuaikan dengan flowchart dan pseudocode (yang dikerjakan saat daspro, kayaknya.. 😭).
 - Pada tiga **Soal Tambahan**, bahasa pemrogramannya diasumsikan **Java** mengikuti jobsheet, dan masukan dibaca lewat `Scanner`.
-- Pesan error pada Percobaan 2 No. 3 bergantung versi JDK. Yang ditampilkan adalah dari **JDK 21**.
+- Pesan error pada Percobaan 2 No. 3 bergantung versi JDK. Yang ditampilkan adalah dari **JDK 21** karena itu yang terinstal dalam pc saya.
+- untuk soal tambahan no 3 yang **pph** mengapa saya pakai locale id-ID? ya karena biar penomorannya ga ribet (standar penomoran indonesia/penulisan di indonesia)
 
 <div align="center">
 
