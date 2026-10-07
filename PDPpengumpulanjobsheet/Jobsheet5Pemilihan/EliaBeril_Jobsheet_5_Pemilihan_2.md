@@ -651,6 +651,7 @@ public class tugas2SeleksiAsisten13assign {
 # 6. Catatan Asumsi
 
 - Nama file memakai nomor presensi 13 (no presensi author) menggantikan NoPresensi pada jobsheet, ditambah akhiran folder (exp, assign, addassign), mis. Tugas1Pemilihan13assign.java. Nama class di dalam file mengikuti nama file persis.
+- Pada Percobaan 1 Pertannyaan 3 saaya ingin konfirmasi bahwa isi flowchart saya lengkap, tetapi karena md tidak mendukung slider data yang ada dalam code tidak muncul semmua di flowchart. 🙏
 - Aturan **diskon toko buku** (Tugas 1) saya asumsikan karena saya bingung untuk flowchart Latihan 2 Pertemuan 6 tidak terlampir. Jadi saya hanya sesuaikan dengan flowchart saya sendiri.
 - Pada Percobaan 2 Pertanyaan 3, perubahan `||` menjadi `&&` hanya dilakukan sementara. File `operatorLogikaWifi13exp.java` tetap memakai `||`.
 - Pada Percobaan 1, program menanyakan log bimbingan lebih dulu sebelum memeriksa kompen (sesuai langkah jobsheet), sehingga input bimbingan tetap diminta meskipun jawaban kompen "No".
