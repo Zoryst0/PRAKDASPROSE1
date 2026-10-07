@@ -299,7 +299,7 @@ Karena izin dosen atau status asisten lab baru **relevan** setelah syarat dasar 
 | Bukan member | < Rp500.000 | 0% |
 
 ```mermaid
-flowchart TD
+flowchart LR
     A([Mulai]) --> B[/Input member, totalBelanja/]
     B --> C{member?}
     C -- Ya --> D{total >= 500000?}
