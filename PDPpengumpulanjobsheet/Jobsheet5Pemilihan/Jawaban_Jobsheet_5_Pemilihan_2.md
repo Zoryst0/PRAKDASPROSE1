@@ -12,7 +12,7 @@
 | 🆔 **NIM** | 264107020027 |
 | 🔢 **No. Presensi** | 13 |
 | 📚 **Mata Kuliah** | Dasar Pemrograman |
-| ☕ **Bahasa** | Java (diuji dengan OpenJDK 21) |
+| ☕ **Bahasa** | Java |
 
 > 📝 Dokumen ini memuat **Pertanyaan** (Percobaan 1–3) dan **Tugas**. Langkah-langkah praktikum tidak diulang. Semua hasil *run* berasal dari program yang benar-benar dijalankan.
 
@@ -651,7 +651,7 @@ public class tugas2SeleksiAsisten13assign {
 # 6. Catatan Asumsi
 
 - Nama file memakai **nomor presensi 13** dan akhiran folder (`exp`, `assign`), mengikuti pola jobsheet sebelumnya. Nama `class` di dalam file sama persis dengan nama file, termasuk huruf kecil di awal (`nestedUjianSkripsi13exp`) sesuai penamaan pada jobsheet.
-- Aturan **diskon toko buku** (Tugas 1) diasumsikan karena flowchart Latihan 2 Pertemuan 6 tidak terlampir. Sesuaikan dengan flowchart milikmu.
+- Aturan **diskon toko buku** (Tugas 1) diasumsikan karena flowchart Latihan 2 Pertemuan 6 tidak terlampir. Sesuaikan dengan flowchart saya sendiri.
 - Pada Percobaan 2 Pertanyaan 3, perubahan `||` menjadi `&&` hanya dilakukan sementara. File `operatorLogikaWifi13exp.java` tetap memakai `||`.
 - Pada Percobaan 1, program menanyakan log bimbingan lebih dulu sebelum memeriksa kompen (sesuai langkah jobsheet), sehingga input bimbingan tetap diminta meskipun jawaban kompen "No".
 
