@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📗 JOBSHEET 6 — PEMILIHAN 2
+# 📗 JOBSHEET 5 — PEMILIHAN 2
 
 **Dasar Pemrograman 2026 · Politeknik Negeri Malang**
 
