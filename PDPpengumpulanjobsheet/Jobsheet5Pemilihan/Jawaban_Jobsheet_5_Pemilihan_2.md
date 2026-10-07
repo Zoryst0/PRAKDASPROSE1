@@ -650,8 +650,8 @@ public class tugas2SeleksiAsisten13assign {
 
 # 6. Catatan Asumsi
 
-- Nama file memakai **nomor presensi 13** dan akhiran folder (`exp`, `assign`), mengikuti pola jobsheet sebelumnya. Nama `class` di dalam file sama persis dengan nama file, termasuk huruf kecil di awal (`nestedUjianSkripsi13exp`) sesuai penamaan pada jobsheet.
-- Aturan **diskon toko buku** (Tugas 1) diasumsikan karena flowchart Latihan 2 Pertemuan 6 tidak terlampir. Sesuaikan dengan flowchart saya sendiri.
+- Nama file memakai nomor presensi 13 (no presensi author) menggantikan NoPresensi pada jobsheet, ditambah akhiran folder (exp, assign, addassign), mis. Tugas1Pemilihan13assign.java. Nama class di dalam file mengikuti nama file persis.
+- Aturan **diskon toko buku** (Tugas 1) saya asumsikan karena saya bingung untuk flowchart Latihan 2 Pertemuan 6 tidak terlampir. Jadi saya hanya sesuaikan dengan flowchart saya sendiri.
 - Pada Percobaan 2 Pertanyaan 3, perubahan `||` menjadi `&&` hanya dilakukan sementara. File `operatorLogikaWifi13exp.java` tetap memakai `||`.
 - Pada Percobaan 1, program menanyakan log bimbingan lebih dulu sebelum memeriksa kompen (sesuai langkah jobsheet), sehingga input bimbingan tetap diminta meskipun jawaban kompen "No".
 
