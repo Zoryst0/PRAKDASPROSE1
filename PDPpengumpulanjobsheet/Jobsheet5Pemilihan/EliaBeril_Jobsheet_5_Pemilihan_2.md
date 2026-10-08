@@ -8,10 +8,11 @@
 
 | | |
 |---|---|
-| 👤 **Nama** | Elia Beril |
+| 👤 **Nama** | [Elia Beril](https://www.instagram.com/ellxzrst.22/) |
 | 🆔 **NIM** | 264107020027 |
 | 🔢 **No. Presensi** | 13 |
 | 📚 **Mata Kuliah** | Dasar Pemrograman |
+| 📝 **Materi** | Pemlihan 2 |
 | ☕ **Bahasa** | Java |
 
 > 📝 Dokumen ini memuat **Pertanyaan** (Percobaan 1–3) dan **Tugas**. Langkah-langkah praktikum tidak diulang. Semua hasil *run* berasal dari program yang benar-benar dijalankan.
