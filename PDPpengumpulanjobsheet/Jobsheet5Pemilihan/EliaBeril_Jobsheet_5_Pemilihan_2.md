@@ -32,7 +32,7 @@ jobsheet6/
 └── Jawaban_Jobsheet_6_Pemilihan_2.md (dokumen ini)
 ```
 
-Klik nama file untuk membuka **kode asli** di repositori (tautan relatif, bekerja bila dokumen ini berada di folder `jobsheet6`).
+Klik nama file untuk membuka **kode asli** di repositori (tautan relatif, bekerja bila dokumen ini berada di folder `jobsheet5`).
 
 | No | Folder | File |
 |:-:|---|---|
