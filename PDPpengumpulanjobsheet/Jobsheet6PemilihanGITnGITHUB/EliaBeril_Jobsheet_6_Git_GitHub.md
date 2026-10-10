@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🐙 JOBSHEET 6 — STUDI KASUS PEMILIHAN DENGAN GIT DAN GITHUB
+# 🐙 JOBSHEET 6 — STUDI KASUS PEMILIHAN DENGAN GIT DAN GITHUB 🐙
 
-**Dasar Pemrograman 2026 · Politeknik Negeri Malang**
+**Praktikum Dasar Pemrograman 2026 · Politeknik Negeri Malang**
 
 </div>
 
@@ -11,10 +11,11 @@
 | 👤 **Nama** | Elia Beril |
 | 🆔 **NIM** | 264107020027 |
 | 🔢 **No. Presensi** | 13 |
-| 📦 **Repository** | `PraktikumDaspro13` (Public) |
-| ☕ **Bahasa** | Java (diuji dengan OpenJDK 21) |
+| 📚 **Mata Kuliah** | Praktikum Dasar Pemrograman |
+| 📝 **Materi** | Pemlihan Dengan Git & Github |
+| ☕ **Bahasa** | Java |
 
-> 📝 Dokumen ini memuat hasil kerja yang harus ada di repository: **README.md**, **StudiKasus113.java**, **StudiKasus213.java**, beserta rencana commit. Langkah klik-klik Git/VS Code tidak diulang. Semua hasil *run* berasal dari program yang benar-benar dijalankan.
+> 📝 Dokumen ini memuat **Pertanyaan** (Percobaan 1–4) dan **Tugas**. Langkah-langkah praktikum tidak diulang. Semua hasil *run* berasal dari program yang benar-benar dijalankan. Langkah klik-klik Git/VS Code tidak diulang. Semua hasil *run* berasal dari program yang benar-benar dijalankan.
 
 ---
 
@@ -22,9 +23,9 @@
 
 ```text
 PraktikumDaspro13/
-├── README.md             → identitas + hasil uji silang (Percobaan 1 & 4)
-├── StudiKasus113.java    → Studi Kasus 1: Kedai Kopi Senja (Percobaan 2)
-└── StudiKasus213.java    → Studi Kasus 2: Dana Penghargaan (Percobaan 3)
+├── EliaBeril_Jobsheet_6_Git_GitHub.md             → identitas + hasil uji silang (Percobaan 1 & 4)
+├── StudiKasus113.java                             → Studi Kasus 1: Kedai Kopi Senja (Percobaan 2)
+└── StudiKasus213.java                             → Studi Kasus 2: Dana Penghargaan (Percobaan 3)
 ```
 
 > 💡 Nama file mengikuti jobsheet: `StudiKasus1` + `13` → `StudiKasus113.java`, dan `StudiKasus2` + `13` → `StudiKasus213.java`. Nama `class` di dalam file harus sama persis.
