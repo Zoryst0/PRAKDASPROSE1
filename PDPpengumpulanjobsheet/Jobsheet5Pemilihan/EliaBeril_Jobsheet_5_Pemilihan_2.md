@@ -2,7 +2,7 @@
 
 # 📗 JOBSHEET 5 — PEMILIHAN 2 📗
 
-**Dasar Pemrograman 2026 · Politeknik Negeri Malang**
+**Praktikum Dasar Pemrograman 2026 · Politeknik Negeri Malang**
 
 </div>
 
@@ -11,7 +11,7 @@
 | 👤 **Nama** | [Elia Beril](https://www.instagram.com/ellxzrst.22/) |
 | 🆔 **NIM** | 264107020027 |
 | 🔢 **No. Presensi** | 13 |
-| 📚 **Mata Kuliah** | Dasar Pemrograman |
+| 📚 **Mata Kuliah** | Praktikum Dasar Pemrograman |
 | 📝 **Materi** | Pemlihan 2 |
 | ☕ **Bahasa** | Java |
 
