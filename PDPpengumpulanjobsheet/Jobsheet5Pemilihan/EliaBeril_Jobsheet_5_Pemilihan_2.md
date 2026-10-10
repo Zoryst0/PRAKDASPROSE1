@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📗 JOBSHEET 5 — PEMILIHAN 2
+# 📗 JOBSHEET 5 — PEMILIHAN 2 📗
 
 **Dasar Pemrograman 2026 · Politeknik Negeri Malang**
 
@@ -8,10 +8,11 @@
 
 | | |
 |---|---|
-| 👤 **Nama** | Elia Beril |
+| 👤 **Nama** | [Elia Beril](https://www.instagram.com/ellxzrst.22/) |
 | 🆔 **NIM** | 264107020027 |
 | 🔢 **No. Presensi** | 13 |
 | 📚 **Mata Kuliah** | Dasar Pemrograman |
+| 📝 **Materi** | Pemlihan 2 |
 | ☕ **Bahasa** | Java |
 
 > 📝 Dokumen ini memuat **Pertanyaan** (Percobaan 1–3) dan **Tugas**. Langkah-langkah praktikum tidak diulang. Semua hasil *run* berasal dari program yang benar-benar dijalankan.
@@ -32,7 +33,7 @@ jobsheet6/
 └── Jawaban_Jobsheet_6_Pemilihan_2.md (dokumen ini)
 ```
 
-Klik nama file untuk membuka **kode asli** di repositori (tautan relatif, bekerja bila dokumen ini berada di folder `jobsheet6`).
+Klik nama file untuk membuka **kode asli** di repositori (tautan relatif, bekerja bila dokumen ini berada di folder `jobsheet5`).
 
 | No | Folder | File |
 |:-:|---|---|
@@ -651,6 +652,7 @@ public class tugas2SeleksiAsisten13assign {
 # 6. Catatan Asumsi
 
 - Nama file memakai nomor presensi 13 (no presensi author) menggantikan NoPresensi pada jobsheet, ditambah akhiran folder (exp, assign, addassign), mis. Tugas1Pemilihan13assign.java. Nama class di dalam file mengikuti nama file persis.
+- Pada Percobaan 1 Pertannyaan 3 saaya ingin konfirmasi bahwa isi flowchart saya lengkap, tetapi karena md tidak mendukung slider data yang ada dalam code tidak muncul semmua di flowchart. 🙏
 - Aturan **diskon toko buku** (Tugas 1) saya asumsikan karena saya bingung untuk flowchart Latihan 2 Pertemuan 6 tidak terlampir. Jadi saya hanya sesuaikan dengan flowchart saya sendiri.
 - Pada Percobaan 2 Pertanyaan 3, perubahan `||` menjadi `&&` hanya dilakukan sementara. File `operatorLogikaWifi13exp.java` tetap memakai `||`.
 - Pada Percobaan 1, program menanyakan log bimbingan lebih dulu sebelum memeriksa kompen (sesuai langkah jobsheet), sehingga input bimbingan tetap diminta meskipun jawaban kompen "No".
