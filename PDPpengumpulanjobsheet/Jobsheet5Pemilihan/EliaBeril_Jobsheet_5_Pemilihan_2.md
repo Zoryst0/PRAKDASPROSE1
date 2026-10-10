@@ -22,7 +22,7 @@
 ## 🗂️ Struktur Repositori
 
 ```text
-jobsheet6/
+PDPpengumpulanjobsheet/Jobsheet5Pemilihan
 ├── experiment/                       → 3 file Percobaan
 │   ├── nestedUjianSkripsi13exp.java
 │   ├── operatorLogikaWifi13exp.java
@@ -30,12 +30,12 @@ jobsheet6/
 ├── assignment/                       → 2 file Tugas
 │   ├── tugas1DiskonBuku13assign.java
 │   └── tugas2SeleksiAsisten13assign.java
-└── Jawaban_Jobsheet_6_Pemilihan_2.md (dokumen ini)
+└── EliaBeril_Jobsheet_5_Pemilihan_2.md (dokumen ini)
 ```
 
-Klik nama file untuk membuka **kode asli** di repositori (tautan relatif, bekerja bila dokumen ini berada di folder `jobsheet5`).
+Klik nama file untuk membuka **kode asli** di repositori
 
-| No | Folder | File |
+| No | Folder | File (klik untuk lihat kode asli) |
 |:-:|---|---|
 | 1 | `experiment/` | [`nestedUjianSkripsi13exp.java`](experiment/nestedUjianSkripsi13exp.java) |
 | 2 | `experiment/` | [`operatorLogikaWifi13exp.java`](experiment/operatorLogikaWifi13exp.java) |
@@ -449,7 +449,7 @@ public class tugas2SeleksiAsisten13assign {
 
 Salin kode di bawah ke file dengan nama yang tertera, sesuai foldernya.
 
-## 📁 `jobsheet6/experiment/`
+## 📁 `Jobsheet5Pemilihan/experiment/`
 
 ### 📄 [`nestedUjianSkripsi13exp.java`](experiment/nestedUjianSkripsi13exp.java)
 
@@ -555,7 +555,7 @@ public class nestedAksesLab13exp {
 }
 ```
 
-## 📁 `jobsheet6/assignment/`
+## 📁 `Jobsheet5Pemilihan/assignment/`
 
 ### 📄 [`tugas1DiskonBuku13assign.java`](assignment/tugas1DiskonBuku13assign.java)
 
@@ -652,7 +652,7 @@ public class tugas2SeleksiAsisten13assign {
 # 6. Catatan Asumsi
 
 - Nama file memakai nomor presensi 13 (no presensi author) menggantikan NoPresensi pada jobsheet, ditambah akhiran folder (exp, assign, addassign), mis. Tugas1Pemilihan13assign.java. Nama class di dalam file mengikuti nama file persis.
-- Pada Percobaan 1 Pertannyaan 3 saaya ingin konfirmasi bahwa isi flowchart saya lengkap, tetapi karena md tidak mendukung slider data yang ada dalam code tidak muncul semmua di flowchart. 🙏
+- Pada Percobaan 1 Pertannyaan 3 saaya ingin konfirmasi bahwa isi flowchart saya lengkap, tetapi karena md tidak mendukung slider, data yang ada dalam code tidak muncul semmua di flowchart. 🙏
 - Aturan **diskon toko buku** (Tugas 1) saya asumsikan karena saya bingung untuk flowchart Latihan 2 Pertemuan 6 tidak terlampir. Jadi saya hanya sesuaikan dengan flowchart saya sendiri.
 - Pada Percobaan 2 Pertanyaan 3, perubahan `||` menjadi `&&` hanya dilakukan sementara. File `operatorLogikaWifi13exp.java` tetap memakai `||`.
 - Pada Percobaan 1, program menanyakan log bimbingan lebih dulu sebelum memeriksa kompen (sesuai langkah jobsheet), sehingga input bimbingan tetap diminta meskipun jawaban kompen "No".
