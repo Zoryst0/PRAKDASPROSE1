@@ -22,14 +22,24 @@
 ## 🗂️ Struktur Repositori
 
 ```text
-PDPpengumpulanjobsheet/jobsheet5pemilihan
-├── experiment/          → 3 file Percobaan
-├── assignment/          → 4 file Tugas
-├── additionalassign!/   → 3 file Soal Tambahan
-└── (dokumen jobsheet ini)
+PDPpengumpulanjobsheet/Jobsheet4Pemilihan
+├── experiment/                       → 3 file Percobaan
+│   ├── PemilihanIf13exp.java
+│   ├── PemilihanIfElse13exp.java
+│   └── PemilihanSwitch13exp.java
+├── assignment/                       → 4 file Tugas
+│   ├── Tugas1Pemilihan13assign.java
+│   ├── Tugas2Pemilihan13assign.java
+│   ├── TugasAntrean13assign.java
+│   └── TugasParkir13assign.java
+├── additionalassign!/                → 3 file Tugas
+│   ├── NusantaraPay13addassign.java
+│   ├── Pph21Progresif13addassign.java
+|   └── UgdHarapanKita13addassign.java
+└── EliaBeril_Jobsheet_4_Pemilihan_1.md (dokumen ini)
 ```
 
-Klik nama file di tabel untuk membuka **kode asli** langsung di repositori (tautan relatif, bekerja bila dokumen ini berada di folder `prakdaspro`).
+Klik nama file di tabel untuk membuka **kode asli** langsung di repositori
 
 | No | Folder | File (klik untuk lihat kode asli) |
 |:-:|---|---|
@@ -778,7 +788,7 @@ PPh 21 terutang: Rp9.000.000
 
 Salin kode di bawah ke file dengan nama yang tertera, sesuai foldernya.
 
-## 📁 `experiment/`
+## 📁 `Jobsheet4Pemilihan/experiment/`
 
 ### 📄 [`PemilihanIf13exp.java`](experiment/PemilihanIf13exp.java)
 
@@ -887,7 +897,7 @@ public class PemilihanIfElse13exp {
 }
 ```
 
-## 📁 `assignment/`
+## 📁 `Jobsheet4Pemilihan/assignment/`
 
 ### 📄 [`Tugas1Pemilihan13assign.java`](assignment/Tugas1Pemilihan13assign.java)
 
@@ -1005,7 +1015,7 @@ public class TugasAntrean13assign {
 }
 ```
 
-## 📁 `additionalassign!/` (soal tambahan)
+## 📁 `Jobsheet4Pemilihan/additionalassign!/` (soal tambahan)
 
 ### 📄 [`NusantaraPay13addassign.java`](additionalassign%21/NusantaraPay13addassign.java)
 
