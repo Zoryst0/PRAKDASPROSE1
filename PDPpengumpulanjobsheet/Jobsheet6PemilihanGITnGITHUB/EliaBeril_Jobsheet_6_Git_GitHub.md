@@ -57,7 +57,7 @@ Testing
 - Kelas : TI1D
 ```
 
-> 💡 Kelas `TI1D` saya ambil dari nama file jobsheet sebelumnya. Ganti bila berbeda. Tanda `-` di awal baris dipakai supaya tiap baris tampil terpisah di GitHub (tanpa itu, tiga baris akan menyatu jadi satu paragraf).
+> 💡 Kelas `TI1D`
 
 **Commit message:** `Menambahkan identitas di README`
 
