@@ -50,7 +50,7 @@ PraktikumDaspro13/
 📄 File: `README.md` (isi awal)
 
 ```markdown
-Ini adalah repository pertama saya
+Testing
 
 - Nama  : Elia Beril
 - NIM   : 264107020027
