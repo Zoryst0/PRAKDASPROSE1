@@ -19,7 +19,7 @@
 
 ---
 
-## 🗂️ Struktur Repository
+## 🗂️ Struktur Repositori
 
 ```text
 PraktikumDaspro13/
