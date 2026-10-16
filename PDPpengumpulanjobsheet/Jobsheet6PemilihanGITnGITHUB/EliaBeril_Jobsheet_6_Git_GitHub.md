@@ -12,7 +12,7 @@
 | 🆔 **NIM** | 264107020027 |
 | 🔢 **No. Presensi** | 13 |
 | 📚 **Mata Kuliah** | Praktikum Dasar Pemrograman |
-| 📝 **Materi** | Pemlihan Dengan Git & Github |
+| 📝 **Materi** | Pemilihan Dengan Git & Github |
 | ☕ **Bahasa** | Java |
 
 > 📝 Dokumen ini memuat **Pertanyaan** (Percobaan 1–4) dan **Tugas**. Langkah-langkah praktikum tidak diulang. Semua hasil *run* berasal dari program yang benar-benar dijalankan. Langkah klik-klik Git/VS Code tidak diulang. Semua hasil *run* berasal dari program yang benar-benar dijalankan.
