@@ -40,5 +40,5 @@ public class Tugas1Bioskop13assign {
 
         System.out.println("Total tiket terjual : " + totalTiket);
         System.out.println("Total penjualan     : Rp" + (long) totalPenjualan);
-    }
+    } 
 }

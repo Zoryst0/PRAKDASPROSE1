@@ -21,7 +21,7 @@ public class Tugas2Parkir13assign {
                 }
             }
         } while (jenis != 0);
-        sc.close();
+        sc.close(); 
 
         System.out.println("Total pembayaran parkir: Rp" + total);
     }
