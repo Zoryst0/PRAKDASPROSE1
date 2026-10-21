@@ -36,6 +36,7 @@ public class Tugas1Bioskop13assign {
             totalTiket += jumlahTiket;
             totalPenjualan += bayar;
         }
+        sc.close();
 
         System.out.println("Total tiket terjual : " + totalTiket);
         System.out.println("Total penjualan     : Rp" + (long) totalPenjualan);
