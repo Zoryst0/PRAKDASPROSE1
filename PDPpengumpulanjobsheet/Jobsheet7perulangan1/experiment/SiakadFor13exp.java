@@ -19,5 +19,6 @@ public class SiakadFor13exp {
 
         System.out.println("Nilai tertinggi: " + tertinggi);
         System.out.println("Nilai terendah: " + terendah);
+        sc.close();
     }
 }

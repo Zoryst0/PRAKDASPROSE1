@@ -30,5 +30,6 @@ public class KafeDoWhile13exp {
         } while (true);
 
         System.out.println("Semua transaksi selesai.");
+        sc.close();
     }
 }
