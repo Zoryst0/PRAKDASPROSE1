@@ -24,7 +24,7 @@ public class SiakadForLulus13exp {
         }
 
         System.out.println("Nilai tertinggi: " + tertinggi);
-        System.out.println("Nilai terendah: " + terendah);
+        System.out.println("Nilai terendah: " + terendah);  
         System.out.println("Jumlah mahasiswa lulus: " + lulus);
         System.out.println("Jumlah mahasiswa tidak lulus: " + tidakLulus);
         sc.close();

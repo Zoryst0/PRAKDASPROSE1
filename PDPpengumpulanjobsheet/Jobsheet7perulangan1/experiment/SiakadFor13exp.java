@@ -9,6 +9,7 @@ public class SiakadFor13exp {
         for (int i = 1; i <= 10; i++) {
             System.out.print("Masukkan nilai mahasiswa ke-" + i + ": ");
             nilai = sc.nextDouble();
+            
             if (nilai > tertinggi) {
                 tertinggi = nilai;
             }
