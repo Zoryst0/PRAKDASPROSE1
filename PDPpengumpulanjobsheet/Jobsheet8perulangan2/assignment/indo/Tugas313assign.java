@@ -52,7 +52,7 @@ public class Tugas313assign {
         }
 
         System.out.println("Total barang seluruh toko: " + totalBarangSemua);
-        System.out.println("Toko dengan barang terbanyak: " + tokoTerbaik);
+        System.out.println("Toko dengan barang terbanyak: Toko " + tokoTerbaik);
         sc.close();
     }
 }
