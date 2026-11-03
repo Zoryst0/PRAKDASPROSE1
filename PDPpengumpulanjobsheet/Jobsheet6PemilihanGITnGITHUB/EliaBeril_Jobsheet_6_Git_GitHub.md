@@ -106,7 +106,6 @@ public class StudiKasus113 {
 ### 🔹 Commit 2 — `SK1: logika diskon dan kembalian` (kode final)
 
 ```java
-// StudiKasus113.java
 import java.util.Scanner;
 
 public class StudiKasus113 {
@@ -124,6 +123,7 @@ public class StudiKasus113 {
         jumlahCup = sc.nextInt();
         System.out.print("Masukkan uang bayar  : ");
         uangBayar = sc.nextInt();
+        sc.close();
 
         // Hitung total harga dan diskon
         totalHarga = jumlahCup * hargaPerCup;
@@ -149,6 +149,7 @@ public class StudiKasus113 {
         }
     }
 }
+
 ```
 
 **Contoh hasil program (sama dengan contoh di jobsheet):**
@@ -257,9 +258,7 @@ public class StudiKasus213 {
 
 ### 🔹 Commit 2 — `SK2: cabang PKM dan lainnya` (kode final)
 
-```java
-// StudiKasus213.java
-import java.util.Scanner;
+```javaimport java.util.Scanner;
 
 public class StudiKasus213 {
     public static void main(String[] args) {
@@ -312,6 +311,7 @@ public class StudiKasus213 {
         System.out.println("Status : " + status);
     }
 }
+
 ```
 
 **Contoh hasil program (sama dengan contoh di jobsheet):**
