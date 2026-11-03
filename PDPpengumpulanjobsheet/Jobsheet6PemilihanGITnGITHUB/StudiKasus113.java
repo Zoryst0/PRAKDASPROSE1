@@ -15,6 +15,7 @@ public class StudiKasus113 {
         jumlahCup = sc.nextInt();
         System.out.print("Masukkan uang bayar  : ");
         uangBayar = sc.nextInt();
+        sc.close();
 
         // Hitung total harga dan diskon
         totalHarga = jumlahCup * hargaPerCup;
