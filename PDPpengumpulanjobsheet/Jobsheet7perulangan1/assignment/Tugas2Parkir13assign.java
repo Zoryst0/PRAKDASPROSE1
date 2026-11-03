@@ -19,11 +19,11 @@ public class Tugas2Parkir13assign {
                 } else {
                     total += durasi * 2000;
                 }
-            }
+            } 
         } while (jenis != 0);
       
 
-        System.out.println("Total pembayaran parkir: Rp" + total);
+        System.out.println("Total pembayaran parkir hari ini: Rp" + total);
           sc.close(); 
     }
 }
