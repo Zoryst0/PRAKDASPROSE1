@@ -12,7 +12,7 @@
 | 🆔 **NIM** | 264107020027 |
 | 🔢 **No. Absen** | 13 |
 | 📚 **Mata Kuliah** | Dasar Pemrograman |
-| ☕ **Bahasa** | Java (diuji dengan OpenJDK 21) |
+| ☕ **Bahasa** | Java (using java jdk 21 as the compiler) |
 
 > 📝 Dokumen ini memuat kode, hasil *run*, jawaban **Pertanyaan** Percobaan 1–4, dan **Tugas** 1–2. Teori dan langkah praktikum tidak diulang. Semua hasil *run* berasal dari program yang benar-benar dijalankan.
 
