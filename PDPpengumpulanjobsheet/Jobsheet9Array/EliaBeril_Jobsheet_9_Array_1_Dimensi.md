@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📙 JOBSHEET 9 — ARRAY 1 DIMENSI
+# 📙 JOBSHEET 9 — ARRAY 1 DIMENSI 📙
 
 **Dasar Pemrograman 2026 · Politeknik Negeri Malang**
 
