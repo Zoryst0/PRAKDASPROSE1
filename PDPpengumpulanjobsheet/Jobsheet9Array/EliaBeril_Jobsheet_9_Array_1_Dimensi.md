@@ -158,7 +158,7 @@ bil[2] = -7, double = -14
 bil[3] = 17, double = 34
 ```
 
-**Maksud statement:** kata `double` di dalam tanda kutip hanyalah **teks** yang berarti "dua kali lipat". Itu bukan tipe data `double`. Ekspresi `(bil[i] * 2)` mengambil nilai elemen ke-`i` lalu mengalikannya 2. Tanda kurung memastikan perkalian dihitung **lebih dulu** sebelum hasilnya digabung ke teks dengan `+` (bagian `+ i +` sebelumnya adalah penggabungan teks, bukan penjumlahan).
+**Maksud statement:** kata `double` di dalam tanda kutip hanyalah **teks** yang berarti "dua kali lipat". Itu bukan tipe data `double`. Ekspresi `(bil[i] * 2)` mengambil nilai elemen ke-`i` lalu mengalikannya 2. Tanda kurung memastikan perkalian dihitung **lebih dulu** sebelum hasilnya digabung ke teks dengan `+` (bagian `+ i +` sebelumnya adalah penggabungan teks, bukan penjumlahan). dalam kata 'double' di dalam tanda kutip hanyalah **teks** yang berarti "dua kali lipat". Itu bukan tipe data 'double'. Ekspresi '(bil[i] * 2 )' mengambil nilai elemen ke-'i' lalu mengalikannya dengan 2, tanda kurung memastikan perkalian dihitung terlebih dahulu sebelum hasilnya digabung ke teks dengan '+' (bagian '+|+ sebelumnya adalah penggabungan teks, bukan penjumlahan)
 
 ### ❓ Pertanyaan 4
 **Jika kondisi for-loop diubah menjadi `i <= 4`, apa keluarannya? Mengapa?**
