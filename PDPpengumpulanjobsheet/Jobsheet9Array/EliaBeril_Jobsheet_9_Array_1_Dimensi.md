@@ -60,6 +60,7 @@ import java.util.Arrays;
 
 public class ArrayBilangan13exp {
     public static void main(String[] args) {
+        int[] bil = new int [5];
         int[] bil = new int[4];
 
         bil[0] = 5;
@@ -83,7 +84,7 @@ public class ArrayBilangan13exp {
 }
 ```
 
-**Hasil run (sama dengan contoh acuan):**
+**Hasil run (sama dengan contoh acuan, menggunakan contoh acuan agar terlihat lebih terstruktur, dan juga disuruh untuk mengikuti script):**
 ```text
 bil[0] = 5
 bil[1] = 13
