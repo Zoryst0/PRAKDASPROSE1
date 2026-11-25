@@ -1,3 +1,5 @@
+package PDPpengumpulanjobsheet.Jobsheet12Fungsi.experiment;
+
 public class LacakFungsi13exp {
     static int kali2(int x) {
         return x * 2;
