@@ -1,4 +1,4 @@
-package PDPpengumpulanjobsheet.Jobsheet12Fungsi.experiment;
+package PDPpengumpulanjobsheet.Jobsheet12Fungsi.assignment;
 
 import java.util.Locale;
 import java.util.Scanner;
